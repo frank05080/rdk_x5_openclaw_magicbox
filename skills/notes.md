@@ -1,0 +1,1 @@
+please use your skill to capture an image, then tell me in chinese what contents are there in the image, then use tts to generate mp3 and play (when use capture image tool, you first bash -c 'source /opt/tros/humble/setup.bash', then use python3 to use the tool)
